@@ -1,6 +1,6 @@
 package com.mkyong.hashing;
 
-import org.apache.log4j.Logger
+import org.apache.log4j.Logger;
 
 /**
  * Hello world!
