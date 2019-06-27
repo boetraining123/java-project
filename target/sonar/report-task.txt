@@ -1,0 +1,6 @@
+projectKey=com.mkyong.hashing:java-project
+serverUrl=http://localhost:9000
+serverVersion=7.8.0.26217
+dashboardUrl=http://localhost:9000/dashboard?id=com.mkyong.hashing%3Ajava-project
+ceTaskId=AWuXkR04-N_Zawy0kZIS
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWuXkR04-N_Zawy0kZIS
