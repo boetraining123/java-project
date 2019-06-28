@@ -16,7 +16,7 @@ public class App
 	   Locale lo=Locale.getDefault();
 	   final String msg1="msg1";
 	   logger.info(lo);
-	   logger.info(Res_Bundle.getBundle(msg1)); 
+	   logger.info(ResBundle.getBundle(msg1)); 
     }
 
     public String checkEvenOdd(int n){
