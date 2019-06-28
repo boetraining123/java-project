@@ -4,7 +4,7 @@ import java.util.ResourceBundle;
 
 public class ResBundle {
 
-	private ResBundle() {
+	public static void ResBundle() {
     		throw new IllegalStateException("Resource Bundle class");
   	}
 
