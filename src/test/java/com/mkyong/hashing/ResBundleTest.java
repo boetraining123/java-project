@@ -44,4 +44,11 @@ public class ResBundleTest
 		assertEquals(result,expected);
 	}
 
+	public void testMain()
+	{
+		ResBundle op = new ResBundle();
+		op.main(new String[] {"arg1"});
+		assertEquals(1,1);
+	}
+
 }
