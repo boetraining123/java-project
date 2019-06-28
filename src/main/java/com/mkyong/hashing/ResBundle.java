@@ -4,9 +4,7 @@ import java.util.ResourceBundle;
 
 public class ResBundle {
 
-	public static void ResBundle() {
-    		throw new IllegalStateException("Resource Bundle class");
-  	}
+	public ResBundle() {}
 
 	public static String getBundle(String key) {
 		ResourceBundle rs = ResourceBundle.getBundle("global");
